@@ -1,0 +1,9 @@
+1. Did not got chance to add Unit Test. Also, did not priotize it as it was not asked in the assesment.
+2. Please execute the SQL DB Script which includes the data as well.
+3. Windows Authentication is used in DB connection
+4. used .Net Framework as .Net Core was not asked but I quite comfortable on .Net core too.
+5. I have followed database per service approach. 
+6. Transaction chanrges of AED 1 is considered along with Topup amount and not maintained in separate DB as charges.
+7. This problem can be redesigned using .net core with microservices with scalability focusing on Topup services (considering the product got famous)
+8. No messeging queue used intentionally to save time.
+ 
